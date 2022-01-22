@@ -1,0 +1,78 @@
+.header{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px 30px 30px 10px;   
+}
+
+.header:hover {
+    text-decoration: underline;
+}
+
+/*hr:not([size]) {
+    height: 5px;
+}
+
+hr{
+    height: 5px;
+*/
+
+.one{
+    margin-left: 150px;
+    display: grid;
+    grid-template-columns: 35% auto;
+}
+
+.ksiazki{
+    display: grid;
+    grid-template-columns: 20%  auto auto;
+    margin: 70px 0px;
+    font-size: 30px;
+}
+
+
+
+
+.listaresponsiv{
+    display: grid;
+    grid-template-columns: 15% auto 50%;
+    margin: 70px 0px;
+}
+
+.tite{
+    display: grid;
+    grid-template-columns: 10%  auto auto;
+    color: cadetblue;
+    font-size: 30px;
+}
+
+.list{
+    background-color: white;
+    color: cadetblue;
+    font-weight: bold; 
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.col-sm-4{
+    padding: 0px 30px;
+}
+
+.modal-content{
+    box-shadow: 15px 10px 35px grey;
+}
+
+p{
+    text-align: right;
+}
+
+/*#btn{
+    text-align: right;
+    margin: 0px 0px 40px 590px;   
+}*/
+
+  
+
+
+
